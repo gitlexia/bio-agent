@@ -1,0 +1,5 @@
+# Runtime dependencies.
+# The test suite uses only the Python standard library, so there's nothing
+# extra to install to run `python -m unittest`.
+anthropic>=0.40.0
+requests>=2.31.0
