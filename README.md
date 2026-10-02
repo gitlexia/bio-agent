@@ -115,7 +115,7 @@ $ python bio_agent.py --eval
 [2] PASS  (2/2 keywords)  What does the gyrA gene do and how do mutations ...
 ...
 
-Score: N/5
+Score: 5/5
 ```
 
 The keyword grader is deliberately crude — it's cheap, deterministic, and good
